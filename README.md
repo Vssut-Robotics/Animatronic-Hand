@@ -2,7 +2,7 @@
 
 ## Learning motion planning and algos
 
-Consisting 4 Tasks:
+Consisting of total 4 Tasks:
 
 1. Working with IMU
 2. Working with Flex Sensors
